@@ -68,6 +68,7 @@ Project Link: [https://github.com/ken-sok/POS](https://github.com/ken-sok/POS)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
+* [udemy](https://www.udemy.com/course/create-pos-system-inventory-sales-with-php7-adminlte/)
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
