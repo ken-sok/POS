@@ -62,7 +62,7 @@ Distributed under the GNU General Public License v3.0 License. See `LICENSE` for
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@kheang_sok28](https://twitter.com/kheang_sok28) - chhaikheang.sok@gmail.com
+Chhaikheang Sok - [@kheang_sok28](https://twitter.com/kheang_sok28) - chhaikheang.sok@gmail.com
 
 Project Link: [https://github.com/ken-sok/POS](https://github.com/ken-sok/POS)
 
