@@ -8,8 +8,7 @@
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
+  * [Prerequisites & Installation](#prerequisites)
 * [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
@@ -77,7 +76,7 @@ Project Link: [https://github.com/ken-sok/POS](https://github.com/ken-sok/POS)
 * [AdminLTE](https://adminlte.io/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
+[license-shield]: https://img.shields.io/badge/License-GPLv3-blue.svg
 [license-url]: https://github.com/ken-sok/POS/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/chhaikheang-sok-a47a79161/
