@@ -74,6 +74,7 @@ Project Link: [https://github.com/ken-sok/POS](https://github.com/ken-sok/POS)
 * [Sublime](https://www.sublimetext.com/)
 * [VSCode](https://code.visualstudio.com/)
 * [AdminLTE](https://adminlte.io/)
+* [MVC](https://www.techopedia.com/definition/3842/model-view-controller-mvc)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [license-shield]: https://img.shields.io/badge/License-GPLv3-blue.svg
@@ -81,4 +82,5 @@ Project Link: [https://github.com/ken-sok/POS](https://github.com/ken-sok/POS)
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/chhaikheang-sok-a47a79161/
 [product-screenshot]: thumbnail.png
+
 
