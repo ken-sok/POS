@@ -37,9 +37,9 @@ A list of commonly used resources that I find helpful are listed in the acknowle
     - categories management
     - customer management
 + Additional: 
-- viewing reports
-- set user permissions
-- others. 
+    - viewing reports
+    - set user permissions
+    - others. 
 
 ### Built With
 * [Bootstrap](https://getbootstrap.com)
