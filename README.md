@@ -7,8 +7,10 @@
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
+  * [Features](#Features)
 * [Getting Started](#getting-started)
   * [Prerequisites & Installation](#prerequisites)
+  
 * [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
@@ -25,6 +27,19 @@ There are many good POS systems available online, however, as I am only a freshm
 Since Covid-19 is widespread, I have a bunch more free time at home, thus another reason to build it is for my family business. 
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
+
+### Features: 
+
++ CRUD: 
+    - user management
+    - sales management
+    - products management
+    - categories management
+    - customer management
++ Additional: 
+- viewing reports
+- set user permissions
+- others. 
 
 ### Built With
 * [Bootstrap](https://getbootstrap.com)
