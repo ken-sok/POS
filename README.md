@@ -18,7 +18,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]
+![Product Name Screen Shot][product-screenshot]
 
 There are many good POS systems available online, however, as I am only a freshman in university, I wanted to see how the backend, and frontend worked together. Thus, I decided to learn to build the POS system from scratch. 
 
